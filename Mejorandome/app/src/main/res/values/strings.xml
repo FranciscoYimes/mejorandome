@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mejorandome</string>
+
+    <string name="forgot_pass_text">Te enviaremos un link a tu cuenta de</string>
+    <string name="forgot_pass_text2">correo para restablecer tu contraseña.</string>
+
+    <string name="forgot_pass_sent">Te hemos enviado un link a tu cuenta de</string>
+    <string name="forgot_pass_sent2">correo. Revisa tu bandeja de entrada</string>
+</resources>

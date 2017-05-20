@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:orientation="vertical"
+    android:background="@color/color_back"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:padding="16dp"
+    tools:context="mejorandome.mejorandome.LoginActivity">
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="160dp">
+
+        <TextView
+            android:layout_marginTop="50dp"
+            android:text="Mejorandome"
+            android:textSize="48sp"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/login_text_color"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            style="@style/EditText"
+            android:id="@+id/login__mail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:ems="10"
+            android:hint="E-mail"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            style="@style/EditText"
+            android:id="@+id/login__password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:ems="10"
+            android:hint="Contraseña"
+            android:inputType="textPassword" />
+
+        <Button
+            style="@style/AccentButton"
+            android:id="@+id/login__button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Iniciar Sesion" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/forgotPassText"
+        android:layout_marginTop="10dp"
+        android:text="¿Olvidaste tu Contraseña?"
+        android:textSize="18sp"
+        android:textColor="@color/login_text_color"
+        android:layout_gravity="end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
