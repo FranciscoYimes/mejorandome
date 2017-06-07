@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 
 import mejorandome.mejorandome.fragments.ActivitiesFragment;
 import mejorandome.mejorandome.fragments.DashboardFragment;
-import mejorandome.mejorandome.fragments.MainFragment;
+import mejorandome.mejorandome.fragments.MedicineFragment;
 import mejorandome.mejorandome.fragments.SettingsFragment;
 import mejorandome.mejorandome.fragments.SosFragment;
 
@@ -41,7 +41,7 @@ public class Pager extends FragmentStatePagerAdapter {
                 SosFragment tab3 = new SosFragment();
                 return tab3;
             case 3:
-                MainFragment tab4 = new MainFragment();
+                MedicineFragment tab4 = new MedicineFragment();
                 return tab4;
             case 4:
                 SettingsFragment tab5 = new SettingsFragment();

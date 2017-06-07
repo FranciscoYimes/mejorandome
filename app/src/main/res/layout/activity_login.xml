@@ -38,13 +38,13 @@
 
         <EditText
             style="@style/EditText"
-            android:id="@+id/login__mail"
+            android:id="@+id/login__dni"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:ems="10"
-            android:hint="E-mail"
-            android:inputType="textEmailAddress" />
+            android:hint="DNI o Rut Sin Dígito Verificador"
+            android:inputType="number" />
 
         <EditText
             style="@style/EditText"

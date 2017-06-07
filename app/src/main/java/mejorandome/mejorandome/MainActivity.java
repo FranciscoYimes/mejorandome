@@ -8,9 +8,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import mejorandome.mejorandome.adapters.Pager;
-import mejorandome.mejorandome.fragments.MainFragment;
+import mejorandome.mejorandome.fragments.DashboardFragment;
 
-public class MainActivity extends AppCompatActivity implements TabLayout.OnTabSelectedListener, MainFragment.OnFragmentInteractionListener {
+public class MainActivity extends AppCompatActivity implements TabLayout.OnTabSelectedListener, DashboardFragment.OnFragmentInteractionListener {
 
 
     private TabLayout tabLayout;
@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements TabLayout.OnTabSe
         view3.findViewById(R.id.icon).setBackgroundResource(R.drawable.sos_icon);
 
         view4 = getLayoutInflater().inflate(R.layout.fragment_icons_design, null);
-        view4.findViewById(R.id.icon).setBackgroundResource(R.drawable.settings_icon);
+        view4.findViewById(R.id.icon).setBackgroundResource(R.drawable.medicine_icon);
 
         view5 = getLayoutInflater().inflate(R.layout.fragment_icons_design, null);
         view5.findViewById(R.id.icon).setBackgroundResource(R.drawable.settings_icon);

@@ -11,7 +11,7 @@
 
     <LinearLayout
         android:orientation="vertical"
-        android:layout_marginTop="0dp"
+        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
@@ -26,7 +26,7 @@
             android:layout_marginTop="10dp"
             android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="200dp">
+            android:layout_height="340dp">
 
             <LinearLayout
                 android:layout_gravity="center_horizontal"
@@ -188,158 +188,6 @@
                     android:layout_height="wrap_content">
 
                     <CheckBox
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent" />
-
-                </LinearLayout>
-
-            </LinearLayout>
-            <LinearLayout
-                android:layout_gravity="center_horizontal"
-                android:orientation="horizontal"
-                android:layout_width="wrap_content"
-                android:layout_height="30dp">
-
-                <LinearLayout
-                    android:layout_width="150dp"
-                    android:layout_height="match_parent">
-
-                    <TextView
-                        android:layout_gravity="center"
-                        android:text="Trabajo"
-                        android:textSize="15dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" />
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:layout_marginLeft="20dp"
-                    android:layout_gravity="end"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
-
-                    <CheckBox
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent" />
-
-                </LinearLayout>
-
-            </LinearLayout>
-
-        </LinearLayout>
-
-
-        <LinearLayout
-            android:layout_marginTop="0dp"
-            android:orientation="vertical"
-            android:layout_width="match_parent"
-            android:layout_height="180dp">
-
-            <TextView
-                android:textSize="20dp"
-                android:layout_gravity="center_horizontal"
-                android:text="Medicamentos"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
-
-            <LinearLayout
-                android:layout_marginTop="20dp"
-                android:layout_gravity="center_horizontal"
-                android:orientation="horizontal"
-                android:layout_width="wrap_content"
-                android:layout_height="30dp">
-
-                <LinearLayout
-                    android:layout_width="150dp"
-                    android:layout_height="match_parent">
-
-                    <TextView
-                        android:layout_gravity="center"
-                        android:text="Trabajo"
-                        android:textSize="15dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" />
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:layout_marginLeft="20dp"
-                    android:layout_gravity="end"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
-
-                    <CheckBox
-                        android:checked="true"
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent" />
-
-                </LinearLayout>
-
-            </LinearLayout>
-
-
-
-            <LinearLayout
-                android:layout_gravity="center_horizontal"
-                android:orientation="horizontal"
-                android:layout_width="wrap_content"
-                android:layout_height="30dp">
-
-                <LinearLayout
-                    android:layout_width="150dp"
-                    android:layout_height="match_parent">
-
-                    <TextView
-                        android:layout_gravity="center"
-                        android:text="Trabajo"
-                        android:textSize="15dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" />
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:layout_marginLeft="20dp"
-                    android:layout_gravity="end"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
-
-                    <CheckBox
-                        android:checked="true"
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent" />
-
-                </LinearLayout>
-
-            </LinearLayout>
-            <LinearLayout
-                android:layout_gravity="center_horizontal"
-                android:orientation="horizontal"
-                android:layout_width="wrap_content"
-                android:layout_height="30dp">
-
-                <LinearLayout
-                    android:layout_width="150dp"
-                    android:layout_height="match_parent">
-
-                    <TextView
-                        android:layout_gravity="center"
-                        android:text="Trabajo"
-                        android:textSize="15dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" />
-
-                </LinearLayout>
-
-                <LinearLayout
-                    android:layout_marginLeft="20dp"
-                    android:layout_gravity="end"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
-
-                    <CheckBox
-                        android:checked="true"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent" />
 

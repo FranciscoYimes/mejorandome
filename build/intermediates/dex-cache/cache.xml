@@ -124,7 +124,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="9acef90746c66214b38ad51a1218ff37e9d37d0c">
+        sha1="5169871e326d96146cc4a0104956d7da322add76">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18c6e3a2cc142960d1a8842243df9c776de6f9ab/classes.dex" />
     </item>
     <item
@@ -153,6 +153,15 @@
         revision="24.0.2"
         sha1="a76a6983a23788b3689524d4bed763955afbd306">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_cefcda4d5e2ced5d1c69914373b732c69cd6dc81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Mejorandome/app/libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2-android-assembly-3.0.0-jar-with-dependencies_0c75ba330876cdbce86ddf9c66ade4aa653b1398/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -363,6 +372,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Mejorandome/app/libs/httpcore-4.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3.2_3eb2181e47984a4368924373c27eb96d74492ebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -399,6 +417,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Mejorandome/app/libs/ksoap2-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b2dba1c1872c937f0b0a5b10cb03f8e9f2c9e747">
+        <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2-android-2.5.2_c74905ccf722ee6395b8ab12abb4c72fbb63fe6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -423,6 +450,24 @@
         revision="24.0.2"
         sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_eb49c70fe4fa58036dbf36ba2fa9d6d810152e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Mejorandome/app/libs/http-request-3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5dbffbb1ae19adb5d3b2a2580f8f9d68d38956c">
+        <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/http-request-3.0_54af4e9599f87a31a98d23c21d711874d5a345cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Mejorandome/app/libs/httpclient-4.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a91a27c5c07e9da44eeddbc4206e349735b26f4">
+        <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.2.3_f2a06eaafeef42efaf708612982533ef20d957f3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -574,7 +619,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="123cb5feba85fc576bf1eecda671830326f1705d">
+        sha1="de125a182a94db1112885d69a4e4b713a0d3a28d">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b9f267501ab17452d9f12101d0675f6cc69b504/classes.dex" />
     </item>
     <item

@@ -43,7 +43,7 @@
             android:id="@+id/main_chart_layout"
             android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="350dp">
+            android:layout_height="400dp">
 
             <LinearLayout
                 android:layout_gravity="center_horizontal"
@@ -130,21 +130,6 @@
 
 
             </LinearLayout>
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:visibility="gone"
-            android:orientation="vertical"
-            android:layout_width="match_parent"
-            android:layout_height="350dp">
-
-            <lecho.lib.hellocharts.view.ColumnChartView
-                android:id="@+id/column_chart"
-                android:layout_marginTop="10dp"
-                android:layout_gravity="center_horizontal"
-                android:layout_width="300dp"
-                android:layout_height="100dp" />
 
         </LinearLayout>
 

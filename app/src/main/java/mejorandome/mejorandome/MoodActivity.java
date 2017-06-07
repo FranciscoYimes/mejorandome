@@ -1,29 +1,17 @@
 package mejorandome.mejorandome;
 
 import android.os.Bundle;
-import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
-
-import java.util.ArrayList;
-import java.util.List;
-
-import lecho.lib.hellocharts.listener.PieChartOnValueSelectListener;
-import lecho.lib.hellocharts.model.PieChartData;
-import lecho.lib.hellocharts.model.SliceValue;
-import lecho.lib.hellocharts.view.PieChartView;
+import android.widget.TextView;
 
 public class MoodActivity extends AppCompatActivity {
 
-    PieChartView pieChartView1;
 
-    private PieChartData data;
-    private boolean hasLabels = false;
-    private boolean hasLabelsOutside = false;
-    private boolean hasLabelForSelected = false;
     private Button saveMoodButton;
+    private CircularSeekBar happySeekBar;
+    private TextView happyTextProgress;
 
 
     @Override
@@ -31,7 +19,31 @@ public class MoodActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mood);
 
-        pieChartView1 = (PieChartView) findViewById(R.id.pie_chart1);
+
+
+        happySeekBar = (CircularSeekBar) findViewById(R.id.seekbar_happy);
+        happyTextProgress = (TextView) findViewById(R.id.happy_progress_text);
+        happyTextProgress.setText(String.valueOf(happySeekBar.getProgress()));
+
+
+        happySeekBar.setOnSeekBarChangeListener(new CircularSeekBar.OnCircularSeekBarChangeListener() {
+            @Override
+            public void onProgressChanged(CircularSeekBar circularSeekBar, int progress, boolean fromUser) {
+
+                happySeekBar.setProgress(GetAproximateProgress(happySeekBar.getProgress()));
+                happyTextProgress.setText(String.valueOf(happySeekBar.getProgress()/20));
+            }
+
+            @Override
+            public void onStopTrackingTouch(CircularSeekBar seekBar) {
+
+            }
+
+            @Override
+            public void onStartTrackingTouch(CircularSeekBar seekBar) {
+
+            }
+        });
 
         saveMoodButton = (Button) findViewById(R.id.save_mood_button);
 
@@ -41,53 +53,30 @@ public class MoodActivity extends AppCompatActivity {
                 finish();
             }
         });
-
-        pieChartView1.setChartRotationEnabled(false);
-
-        pieChartView1.setOnValueTouchListener(new ValueTouchListener());
-
-        toggleLabels();
-        generateData();
     }
 
-    private class ValueTouchListener implements PieChartOnValueSelectListener {
-
-        @Override
-        public void onValueSelected(int arcIndex, SliceValue value) {
-            Toast.makeText(MoodActivity.this, value.getValue() + " %", Toast.LENGTH_SHORT).show();
+    public int GetAproximateProgress(int customProgress)
+    {
+        if(customProgress<20)
+        {
+            return 0;
         }
-
-        @Override
-        public void onValueDeselected() {
+        if(customProgress<40)
+        {
+            return 20;
         }
-    }
-
-    private void toggleLabels() {
-        hasLabels = !hasLabels;
-        if (hasLabels) {
-            hasLabelForSelected = false;
-            pieChartView1.setValueSelectionEnabled(hasLabelForSelected);
-            if (hasLabelsOutside) {
-                pieChartView1.setCircleFillRatio(0.7f);
-            } else {
-                pieChartView1.setCircleFillRatio(1.0f);
-            }
+        if(customProgress<60)
+        {
+            return 40;
         }
-    }
-
-    private void generateData() {
-
-        List<SliceValue> values = new ArrayList<>();
-
-        SliceValue sliceValueBuenas = new SliceValue((float) 15, ContextCompat.getColor(getApplicationContext(),R.color.color_green));
-        values.add(sliceValueBuenas);
-
-        SliceValue sliceValueMalas = new SliceValue((float) 12, ContextCompat.getColor(getApplicationContext(),R.color.color_red));
-        values.add(sliceValueMalas);
-
-
-        data = new PieChartData(values);
-        data.setHasLabels(hasLabels);
-        pieChartView1.setPieChartData(data);
+        if(customProgress<80)
+        {
+            return 60;
+        }
+        if(customProgress<90)
+        {
+            return 80;
+        }
+        return 100;
     }
 }

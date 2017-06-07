@@ -1,6 +1,7 @@
 package mejorandome.mejorandome.fragments;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.content.ContextCompat;
@@ -14,10 +15,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import lecho.lib.hellocharts.listener.PieChartOnValueSelectListener;
-import lecho.lib.hellocharts.model.ColumnChartData;
 import lecho.lib.hellocharts.model.PieChartData;
 import lecho.lib.hellocharts.model.SliceValue;
-import lecho.lib.hellocharts.view.ColumnChartView;
 import lecho.lib.hellocharts.view.PieChartView;
 import mejorandome.mejorandome.CheckinActivity;
 import mejorandome.mejorandome.MoodActivity;
@@ -27,11 +26,7 @@ public class DashboardFragment extends Fragment {
 
     private PieChartView pieChart;
     private PieChartData data;
-    private ColumnChartView columnChartView;
-    private ColumnChartData columnChartData;
-    private boolean hasLabels = false;
-    private boolean hasLabelsOutside = false;
-    private boolean hasLabelForSelected = false;
+
     private View rootView;
     private Button moodButton;
     private Button checkinButton;
@@ -43,8 +38,6 @@ public class DashboardFragment extends Fragment {
 
         pieChart = (PieChartView) rootView.findViewById(R.id.pie_chart);
         pieChart.setInteractive(true);
-
-        columnChartView = (ColumnChartView) rootView.findViewById(R.id.column_chart);
 
         moodButton = (Button) rootView.findViewById(R.id.mood_button);
         checkinButton = (Button) rootView.findViewById(R.id.checkin_button);
@@ -98,5 +91,10 @@ public class DashboardFragment extends Fragment {
         data = new PieChartData(values);
 
         pieChart.setPieChartData(data);
+    }
+
+    public interface OnFragmentInteractionListener {
+        // TODO: Update argument type and name
+        void onFragmentInteraction(Uri uri);
     }
 }
