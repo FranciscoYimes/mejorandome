@@ -124,7 +124,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="5169871e326d96146cc4a0104956d7da322add76">
+        sha1="b9012b2820a54f4710763960673e3a5b4e671e25">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18c6e3a2cc142960d1a8842243df9c776de6f9ab/classes.dex" />
     </item>
     <item
@@ -619,7 +619,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="de125a182a94db1112885d69a4e4b713a0d3a28d">
+        sha1="e9edb3d58c6ed24225536b78d1e6497e98bf4d57">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b9f267501ab17452d9f12101d0675f6cc69b504/classes.dex" />
     </item>
     <item

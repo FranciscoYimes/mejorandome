@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity implements TabLayout.OnTabSe
     private View view3;
     private View view4;
     private View view5;
+    private int dni;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
@@ -28,6 +29,8 @@ public class MainActivity extends AppCompatActivity implements TabLayout.OnTabSe
         setContentView(R.layout.activity_main);
 
         tabLayout = (TabLayout) findViewById(R.id.tabLayout);
+
+        dni = getIntent().getIntExtra("dni",0);
 
         view1 = getLayoutInflater().inflate(R.layout.fragment_icons_design, null);
         view1.findViewById(R.id.icon).setBackgroundResource(R.drawable.dashboard_icon);

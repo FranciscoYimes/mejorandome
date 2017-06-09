@@ -39,7 +39,6 @@ import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
-import java.util.concurrent.TimeUnit;
 
 public class CheckinActivity extends FragmentActivity implements OnMapReadyCallback,
         GoogleApiClient.ConnectionCallbacks,
@@ -55,6 +54,7 @@ public class CheckinActivity extends FragmentActivity implements OnMapReadyCallb
     TextView placeText;
     boolean onLocation = false;
     int respuesta;
+    LatLng currentLatLng;
 
     private GoogleApiClient client;
 
@@ -110,7 +110,7 @@ public class CheckinActivity extends FragmentActivity implements OnMapReadyCallb
     @Override
     public void onConnected(Bundle bundle) {
 
-        new sendLocationsInfo().execute();
+        //new sendLocationsInfo().execute();
 
         mLocationRequest = new LocationRequest();
         mLocationRequest.setInterval(1000);
@@ -124,7 +124,12 @@ public class CheckinActivity extends FragmentActivity implements OnMapReadyCallb
 
         mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
 
-        int j = 0;
+        currentLatLng = new LatLng(mLastLocation.getLatitude(),mLastLocation.getLongitude());
+
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(currentLatLng));
+        mMap.animateCamera(CameraUpdateFactory.zoomTo(16));
+
+        /*int j = 0;
 
         while(respuesta == 0 && j<50)
         {
@@ -140,7 +145,7 @@ public class CheckinActivity extends FragmentActivity implements OnMapReadyCallb
         {
             GetUserLocations();
             LocationConsulting();
-        }
+        } */
         GetUserLocations();
         LocationConsulting();
     }
@@ -389,7 +394,9 @@ public class CheckinActivity extends FragmentActivity implements OnMapReadyCallb
             }
             lastDistance *=1000;
             metersDistance = (int) lastDistance;
-            placeText.setText("Estás a "+metersDistance+" metros de "+userLocations[numberLocation].getName());
+            if(metersDistance<1000)
+                placeText.setText("Estás a "+metersDistance+" mts de "+userLocations[numberLocation].getName());
+            else placeText.setText("Estás a "+metersDistance/1000+" km de "+userLocations[numberLocation].getName());
         }
     }
 
@@ -418,6 +425,14 @@ public class CheckinActivity extends FragmentActivity implements OnMapReadyCallb
 
                 if(resultado!=null) respuesta = 1;
 
+                int i = 0;
+                SoapObject soapObject;
+                String nombre;
+                do
+                {
+                    soapObject = (SoapObject) resultado.getProperty(i);
+                    nombre = soapObject.getProperty(2).toString();
+                }while(resultado.getProperty(i) != null);
 
             } catch (MalformedURLException e) {
                 e.printStackTrace();

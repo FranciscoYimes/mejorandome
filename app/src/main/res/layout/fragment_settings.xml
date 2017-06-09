@@ -42,6 +42,14 @@
                 android:layout_gravity="center_horizontal"
                 android:text="Check In" />
 
+            <Button
+                android:id="@+id/logout_button"
+                style="@style/AccentButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Cerrar Sesión" />
+
         </LinearLayout>
 
     </LinearLayout>
