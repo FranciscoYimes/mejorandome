@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_cff67cfa9d3062ba99e599e02760f6c7b6d51b72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_5ca073f6a3e9cbc32bac98246b3a6180a47e4b26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +30,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_bab83e243b7b3459a1afc9c9a2e5c9b177013b66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/libs/hellocharts-library-1.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a4a094667bf05e197061376ff4eb8128d1de624">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/hellocharts-library-1.5.2_76e4a625f1c1ec2de2660b8b461797b1e35b2b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_4c7c62f55c0c03f2a753c8f6655d10e28fd8223b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3da394a5c3211ab2861bde168151535d497fcfa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_85b020b49a3f612cd1156c5a983c177c9a2b4e5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_6f3863387d39b3865932439068f8dabce86e91eb/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,6 +111,60 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/libs/http-request-3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5dbffbb1ae19adb5d3b2a2580f8f9d68d38956c">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/http-request-3.0_9664f73425c714d3c91d6606033a6a052851fb06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/libs/httpclient-4.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a91a27c5c07e9da44eeddbc4206e349735b26f4">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.2.3_815c3795eed69cedd4eec9ec35cf175cb5a7c556/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_3196b796ab80a7b86e0709744cb0c17e17a29d7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_083a41b4ea2d0c79c5c386dde14de06d1291f0b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.ion-ion-2.1.9_8530ecfcdbe5ac388e85831f16cbc3aad076728a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/libs/ksoap2-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b2dba1c1872c937f0b0a5b10cb03f8e9f2c9e747">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2-android-2.5.2_990002f01d2f25f7dbfbf52a44b4ca66a6f65a56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -72,6 +189,33 @@
         revision="24.0.2"
         sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_661693eb7fe171f53b4ddcf6b0fb5b0f664f4684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_ae58d48715979a2aaae318d9c067d6ba037260be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_4cc7bb181fdeb266e771114f8880f6b4b8b75bdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.koushikdutta.ion/ion/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.ion-ion-2.1.9_dbbd2629ca35d6429781dff35182d75a176228af/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,6 +255,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_11e30e087beb2f7fd188732ea90cbc637911016c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_e5ce500c8aa12c338d280449fa2fe379dfa8e135/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -120,11 +282,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ad89b05c1577b432bad6785765874f96e1a81554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b9012b2820a54f4710763960673e3a5b4e671e25">
+        sha1="71d51c2de84538abc680588c8403eea8072d38c8">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18c6e3a2cc142960d1a8842243df9c776de6f9ab/classes.dex" />
     </item>
     <item
@@ -147,12 +318,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_c32fe0f333fe383aae42235ab599619cffca45fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="a76a6983a23788b3689524d4bed763955afbd306">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_cefcda4d5e2ced5d1c69914373b732c69cd6dc81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_b1d6023cb1612498e38c605a30208ea756f1a41d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_b0b1b86bdbe16ca6e2e50f747a79f96b123729f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_e6d1bdebc8fb44cd4d7df8df123895dbabfaa3cc/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,6 +381,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2-android-assembly-3.0.0-jar-with-dependencies_69439aec8996f7fbed480dd61fcc48d103f6ae67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.async-androidasync-2.1.9_d0d7edc4a87e0c51fe9618237ea6a75f832482d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
         jumboMode="true"
         optimize="true"
@@ -192,12 +417,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_597afc34ac55f2db09e7840d1a7e782b2b66c95e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_9f8bc6612daeec5a7708987d1fa57abf73e43459/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_62cf0b742264ea408134382fd7f1eaa0f040f8bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_2b258e648a2c33d5dc138713255434949791e72e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_467b76283a84e6ad0d6b722a070db94416df186a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -246,12 +507,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_d51c4a3f43b6e05d382a318cd8a5bdb3f7058a8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_b07de39bdff77c39fe7b494b4a3fe9fff10adb92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_95b0680043f4e06a7a32b976369c7cf137026f2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/libs/MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/MPAndroidChart-v3.0.1_5a8ada783d4e14b0033334699e83e1d815dc0104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_0a6ad5b99f4c016f9da9be0112fb757311275a48/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -282,12 +579,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_f9d437e6337e2aae48c21fe85dd8f3a01c89e635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_9c250a0360b675fa397eab12c07c65b56aef506e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_9fe659d242992b8f8555a5d7363833a0c69092a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_7a6008f2e9dd9ea058592ef7b7c0e850e443799a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -309,6 +633,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_27d07b8259ed2e8be8cce3713e91a455bc0928da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -327,6 +660,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_888e3bde3e6631a4266279546635b6d92a635a43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_461b1f58baa863e0cf832d92c15a39ab2374e20a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1a7283db2a89280c7a7f6136658ed6aa3e0b29bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -336,12 +696,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_cb9b7a1e85784b1c9eeacd0e27ca03f0c828ce25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_265f5e1fe450b548c42d21142bd3f47f2e1fa12a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_0e63f71b169ab2db57d16e811bb94b4d3ffb0c54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_a3224b474b4981fbe66f87b48cc749d26b7cd2d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44f6c8ae67480152c114dfeb40314bb8b20b72a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_b04c45fcf1715359a7151a3f4aadd9bc6d9ff00a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -363,12 +768,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_c5bb1d31f44b452184fa847fb1d5d129e79de751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c311c50f6ee167b4256dd13faeaa13ed6c8b1eb">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b767df5f6782c9bab1b1532695ba76578f5730aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_247dab1e5dc0fbacb45f30b8d6758d0b25f1ee58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_35cf2f3fb49ea6b9bf8e8b7c7e0f17e02877cff9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_dbbf4895261acde79615eaceff0eada6c6a18894/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -408,12 +849,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_7faa1d0b4fcf1160e9960152dfae7523f858a3ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_aaca97e94f11fb1d6665b21a6458165ff2d5eca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_bfb71633288889e04203484d94cdc1a2fe2e46bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_9dbd273965c2d50bcc48208b69e209b9c6fe4b7c/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -435,6 +903,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_a10bef0cdaba31f0a1d673f6386a3ad72f32b810/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_941db25ff03fa54b09f3626a4c3014b43d0d7a1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -450,6 +936,24 @@
         revision="24.0.2"
         sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_eb49c70fe4fa58036dbf36ba2fa9d6d810152e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_fa953f0fe2e9fbcc50087ab67b164d8ea3df067c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.koushikdutta.async/androidasync/2.1.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.koushikdutta.async-androidasync-2.1.9_bee38957758df07762f2422fac182a6fd679a1fb/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -471,12 +975,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_45657e7e1db3cb9a92e534b0a325948e666176cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_557bdf9dde86e10d248ae1f6a14ad99b7fe147fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_09002e5c1317d1136c56a3f4e034b117876b1114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_db8132d0620ad9957d85fdedd572999143228f34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_67564f3161f97f9c1184c342e12cdf345af3fcce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_56663b29a3be75acbcf7c48f7c7effd1b7992015/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -525,6 +1074,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_cb01274171cea157f8b320df88bf8f843c6ef2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -561,6 +1119,42 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_364c04ed30fb138c14602d734fbfb6529da16f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_2aae83238fc50cda632f0cba9afaac7e5b369397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42361822bf71ec9b60b060b6c749cb15ebbffb39">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f6677c92c5255b86b2fe8ca4baa81290f378d9e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_1b6393e54ead9342d1fb60e4f469c18b78a5bc7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -570,12 +1164,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_4e5a2a36a9fb5fe673e99d762e720895c44aebe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_61bd060106b1b366ebf50064089741d4bc60da31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_ff4913aad40c82cb698b051c937038124b958330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_9ada961a5503f20ef852c6fc519c994c53e9fad1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e1f7c320b0ff3d3c83c2b6cf410dfe367df597a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/libs/httpcore-4.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3.2_b0ba72a1a24f45b39a6732da966b4ce5a34eb400/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -606,6 +1245,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_20ea3152c453a1ebbafc5a7d3f3093d71730d826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -619,8 +1267,35 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="e9edb3d58c6ed24225536b78d1e6497e98bf4d57">
+        sha1="7c190ed2c5ae0f1cf9068930a97db5c28941f559">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b9f267501ab17452d9f12101d0675f6cc69b504/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_042104d3c21236e58c4b07685d39539b318e5c81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_d06288b8bc49d06e43086b22e004416f5d895553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_4f8b5a70ae85eec38e880dc4bd9235c701a42941/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -642,6 +1317,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_ff112d3523d5ae87583c80bd528398fcc77cb527/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -657,6 +1341,15 @@
         revision="24.0.2"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f8d0b8df1ffadd193dc95a7b072e2266e22dcfba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_fb7b33b4830cf126600562fddc410f1070758430/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -678,6 +1371,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_c9c36a9998b271ce7962d85fe8f71e3348fc0198/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_574a0625aa24684d8ac1c1a8f1a6e18aeb853037/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -687,12 +1398,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_2aab2c2ab42d65caf11e7fa00ba42a49d167e518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
         <dex dex="/Users/franciscoyimesinostroza/Mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_5506ca71129650cfb8dabdc5e9fea43aa153f857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_948b32310ed8b68580b3f692fb7307e2ede0f2c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/franciscoyimesinostroza/Documents/mejorandome/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_0741be1a552cd82db3f5490f43f40cce9bf88ee3/classes.dex" />
     </item>
     <item
         is-multidex="true"

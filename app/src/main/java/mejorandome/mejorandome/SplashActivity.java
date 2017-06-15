@@ -146,18 +146,22 @@ public class SplashActivity extends AppCompatActivity {
         }
         protected void onPostExecute(Void result)
         {
-            String response = resultado.toString();
-            dni = Integer.parseInt(response);
+            if(resultado != null)
+            {
+                String response = resultado.toString();
+                dni = Integer.parseInt(response);
 
 
-            if(dni==0)
-            {
-                status = 1;
+                if(dni==0)
+                {
+                    status = 1;
+                }
+                else
+                {
+                    status = 2;
+                }
             }
-            else
-            {
-                status = 2;
-            }
+            else status = 1;
 
             super.onPostExecute(result);
         }

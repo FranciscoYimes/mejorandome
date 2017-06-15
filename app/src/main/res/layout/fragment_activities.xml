@@ -54,6 +54,7 @@
                     android:layout_height="wrap_content">
 
                     <CheckBox
+                        android:clickable="false"
                         android:checked="true"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent" />
@@ -230,12 +231,5 @@
         </LinearLayout>
 
     </LinearLayout>
-
-    <Button
-        style="@style/AccentButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="Check In" />
 
 </LinearLayout>

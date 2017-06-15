@@ -275,6 +275,11 @@ public class RangeSliderView extends View {
         invalidate();
     }
 
+    public int getIndex()
+    {
+        return currentIndex;
+    }
+
     public int getFilledColor() {
         return filledColor;
     }

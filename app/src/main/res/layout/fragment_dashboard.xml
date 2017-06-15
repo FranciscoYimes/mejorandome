@@ -112,6 +112,7 @@
 
 
                 <Button
+                    android:layout_marginTop="50dp"
                     android:id="@+id/mood_button"
                     style="@style/AccentButton"
                     android:layout_width="match_parent"
@@ -120,6 +121,7 @@
                     android:text="¿Cómo te sientes hoy?" />
 
                 <Button
+                    android:visibility="gone"
                     android:id="@+id/checkin_button"
                     android:layout_marginTop="5dp"
                     style="@style/AccentButton"

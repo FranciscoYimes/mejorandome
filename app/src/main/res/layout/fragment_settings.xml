@@ -36,13 +36,62 @@
                 android:text="Agrear imagen a la lista" />
 
             <Button
+                android:id="@+id/change_pass_option"
                 style="@style/AccentButton"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:text="Check In" />
+                android:text="Cambiar Contraseña" />
+
+            <LinearLayout
+                android:visibility="gone"
+                android:id="@+id/change_pass_layout"
+                android:layout_gravity="center_horizontal"
+                android:orientation="vertical"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    style="@style/EditText"
+                    android:id="@+id/password1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:ems="10"
+                    android:hint="Contraseña Actual"
+                    android:inputType="textPassword" />
+
+                <EditText
+                    style="@style/EditText"
+                    android:id="@+id/password2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:ems="10"
+                    android:hint="Nueva Contraseña"
+                    android:inputType="textPassword" />
+
+                <TextView
+                    android:id="@+id/change_pass_message"
+                    android:visibility="gone"
+                    android:layout_marginBottom="10dp"
+                    android:layout_gravity="center_horizontal"
+                    android:text="Contraseña cambiada con exito"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <Button
+                    android:id="@+id/change_pass_button"
+                    style="@style/AccentButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="Cambiar Contraseña" />
+
+            </LinearLayout>
 
             <Button
+                android:layout_marginTop="50dp"
                 android:id="@+id/logout_button"
                 style="@style/AccentButton"
                 android:layout_width="match_parent"
